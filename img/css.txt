@@ -1,0 +1,15 @@
+a.chatter {
+	background-position: -124px 0;
+}
+a.facebook {
+	background-position: -31px 0;
+}
+a.youtube {
+	background-position: -62px 0;
+}
+a.linkedin {
+	background-position: -93px 0;
+}
+a.vline {
+	background-position: 0 0;
+}

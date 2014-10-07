@@ -1,0 +1,2 @@
+
+CSCO_WebVPN["flush"]();
